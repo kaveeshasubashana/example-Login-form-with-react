@@ -12,7 +12,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <h1>Food Order App</h1>
+      <h1>Login Page </h1>
       <div>
         {!user && (
           <>
