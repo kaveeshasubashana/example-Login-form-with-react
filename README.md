@@ -1,16 +1,19 @@
 ⚙️ Setup Instructions
 
-1. Clone the repo
+⚙️ Clone the repo
    
 git clone https://github.com/yourusername/example-Login-form-with-react
+
 cd example-Login-form-with-react
 
-2.Start Backend
+⚙️ Start Backend
+
 cd server
 npm install
 npm run dev
 
-3.Start Frontend
+⚙️Start Frontend
+
 cd client
 npm install
 npm run dev
